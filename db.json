@@ -6,7 +6,7 @@
       "website": "https://postapp-v1.web.app",
       "photoURL": "https://user-images.githubusercontent.com/54935778/133938436-4754b669-84d6-4d4f-ac7c-003028a9f221.png",
       "code": "https://github.com/Ali-Guliyev/Post-App",
-      "isPrivate": "true"
+      "isPrivate": true
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "website": "https://weatherappbyali.onrender.com",
       "photoURL": "https://user-images.githubusercontent.com/54935778/133939554-fe805cf1-8b89-47e9-a2af-d8427f3f99a5.png",
       "code": "https://github.com/Ali-Guliyev/weather-app",
-      "isPrivate": "false"
+      "isPrivate": false
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "website": "https://chatroom-57.web.app",
       "photoURL": "https://user-images.githubusercontent.com/54935778/133939529-2ff094f2-aab2-4c16-9f00-9e8bf3915d66.png",
       "code": "https://github.com/Ali-Guliyev/live-chatroom-vue-firebase",
-      "isPrivate": "false"
+      "isPrivate": false
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "website": "https://muso-ninjas-v1.web.app/",
       "photoURL": "https://user-images.githubusercontent.com/54935778/133939723-e76adbaa-3596-4c9c-a8fe-474477a0ba3b.png",
       "code": "https://github.com/Ali-Guliyev/Muso-Ninjas-Vue-Firebase",
-      "isPrivate": "false"
+      "isPrivate": false
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "website": "https://hangman.onrender.com",
       "photoURL": "https://user-images.githubusercontent.com/54935778/133939849-d552735c-ec17-4a8d-8df6-e2df7857e961.png",
       "code": "https://github.com/Ali-Guliyev/Hangman",
-      "isPrivate": "false"
+      "isPrivate": false
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "website": "https://github-profiles-app.netlify.app",
       "photoURL": "https://user-images.githubusercontent.com/54935778/133991190-10e877cd-981f-4de8-b3c1-015367b3a51c.png",
       "code": "https://github.com/Ali-Guliyev/github-profiles-app",
-      "isPrivate": "false"
+      "isPrivate": false
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "website": "https://clickbuttonsweeper.netlify.app",
       "photoURL": "https://user-images.githubusercontent.com/54935778/134689777-3ec510c1-b822-4fa3-9cc1-9ea2c78a4264.png",
       "code": "https://github.com/Ali-Guliyev/ClickButtonSweeperGame",
-      "isPrivate": "false"
+      "isPrivate": false
     }
   ],
   "about": {
