@@ -2,6 +2,14 @@
   "projects": [
     {
       "id": 1,
+      "name": "Sozlerim",
+      "website": "https://sozler.im",
+      "photoURL": "https://private-user-images.githubusercontent.com/54935778/317528866-85d9a56a-f045-4988-a368-9b258f55eff9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE1NzY3NzIsIm5iZiI6MTcxMTU3NjQ3MiwicGF0aCI6Ii81NDkzNTc3OC8zMTc1Mjg4NjYtODVkOWE1NmEtZjA0NS00OTg4LWEzNjgtOWIyNThmNTVlZmY5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI3VDIxNTQzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3OTAxZjExNDI0MTcxNWVlNTZkYzY3Y2ZhY2NhZTExOGNiOWRhODBlZjgwYTkzODA3MmQwZDUyMmU1ZmNlOGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.3uYbmn7iOYvtgfPrhBAnW5kj9g6aOT8wPpDAMZGEsLQ",
+      "code": "https://github.com/husayt/sozlerim",
+      "isPrivate": true
+    },
+    {
+      "id": 2,
       "name": "Post App",
       "website": "https://postapp-v1.web.app",
       "photoURL": "https://user-images.githubusercontent.com/54935778/133938436-4754b669-84d6-4d4f-ac7c-003028a9f221.png",
@@ -9,7 +17,7 @@
       "isPrivate": true
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Weather App",
       "website": "https://weatherappbyali.onrender.com",
       "photoURL": "https://user-images.githubusercontent.com/54935778/133939554-fe805cf1-8b89-47e9-a2af-d8427f3f99a5.png",
@@ -17,7 +25,7 @@
       "isPrivate": false
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Chatroom",
       "website": "https://chatroom-57.web.app",
       "photoURL": "https://user-images.githubusercontent.com/54935778/133939529-2ff094f2-aab2-4c16-9f00-9e8bf3915d66.png",
@@ -25,7 +33,7 @@
       "isPrivate": false
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Muso Ninjas",
       "website": "https://muso-ninjas-v1.web.app/",
       "photoURL": "https://user-images.githubusercontent.com/54935778/133939723-e76adbaa-3596-4c9c-a8fe-474477a0ba3b.png",
@@ -33,7 +41,7 @@
       "isPrivate": false
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Hangman",
       "website": "https://hangman.onrender.com",
       "photoURL": "https://user-images.githubusercontent.com/54935778/133939849-d552735c-ec17-4a8d-8df6-e2df7857e961.png",
@@ -41,7 +49,7 @@
       "isPrivate": false
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "Github Profiles App",
       "website": "https://github-profiles-app.netlify.app",
       "photoURL": "https://user-images.githubusercontent.com/54935778/133991190-10e877cd-981f-4de8-b3c1-015367b3a51c.png",
@@ -49,7 +57,7 @@
       "isPrivate": false
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "Click Button Sweeper",
       "website": "https://clickbuttonsweeper.netlify.app",
       "photoURL": "https://user-images.githubusercontent.com/54935778/134689777-3ec510c1-b822-4fa3-9cc1-9ea2c78a4264.png",
